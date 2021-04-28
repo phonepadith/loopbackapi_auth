@@ -4,7 +4,7 @@ import {juggler} from '@loopback/repository';
 const config = {
   name: 'dbstellar',
   connector: 'mongodb',
-  url: 'mongodb+srv://apiadmin:k7807907@cluster0-1uldw.gcp.mongodb.net/dbstellar?retryWrites=true&w=majority',
+  url: '',
   host: '',
   port: 0,
   user: '',
